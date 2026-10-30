@@ -5,7 +5,7 @@ categories: [LLM serving system optimized for many-adapter environments]
 tags: [llm, attention]
 ---
 
-**Link:** [10.1145/3725843.3756083](http://arxiv.org/abs/2411.17741)
+**Link:** [Chameleon](http://arxiv.org/abs/2411.17741)
 **Authors:** Josep Torrellas et.al (2025)
 
 ## One-line summary
